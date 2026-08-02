@@ -1,7 +1,7 @@
 {
   "android": {
     "build": 11,
-    "url": "https://github.com/hiddenghost59/phantom-tv-releases_public/releases/download/1.0.0%2B10/app-release9.apk",
+    "url": "https://github.com/phantom-tv-releases/phantom-tv-releases_public/releases/download/1.0.0%2B10/PhantomTV.apk",
     "changelog": "Corrections navigation Firestick, replay, performance"
   },
   "windows": {
