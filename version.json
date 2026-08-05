@@ -1,7 +1,7 @@
 {
   "android": {
-    "build": 12,
-    "url": "https://github.com/phantom-tv-releases/phantom-tv-releases_public/releases/download/1.0.0%2B12/phantomTV12.apk",
+    "build": 22,
+    "url": "https://github.com/phantom-tv-releases/phantom-tv-releases_public/releases/download/1.0.0%2B22/phantomTV22.apk",
     "changelog": "Corrections navigation Firestick, replay, performance"
   },
   "windows": {
