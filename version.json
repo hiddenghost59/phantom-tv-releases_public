@@ -5,7 +5,7 @@
     "changelog": "Corrections navigation Firestick, profils, TV Gratuite"
   },
   "windows": {
-    "build": 1,
+    "build": 2,
     "url": "https://github.com/phantom-tv-releases/phantom-tv-releases_public/releases/download/windows-1.0.0%2B1/PhantomTV_Setup.exe",
     "changelog": "Premiere version Windows officielle"
   }
