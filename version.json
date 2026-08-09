@@ -1,8 +1,8 @@
 {
   "android": {
     "build": 24,
-    "url": "https://github.com/phantom-tv-releases/phantom-tv-releases_public/releases/download/1.0.0%2B23/phantomTV24.apk",
-    "changelog": "Bandeau MAJ Firestick, navigation clavier, TV Gratuite, parrainage"
+    "url": "https://github.com/phantom-tv-releases/phantom-tv-releases_public/releases/download/1.0.0%2B24/phantomTV24.apk",
+    "changelog": "Bandeau MAJ Firestick avec code Downloader, navigation clavier"
   },
   "windows": {
     "build": 2,
