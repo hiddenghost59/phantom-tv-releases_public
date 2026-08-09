@@ -1,12 +1,12 @@
 {
   "android": {
-    "build": 22,
-    "url": "https://github.com/phantom-tv-releases/phantom-tv-releases_public/releases/download/1.0.0%2B22/phantomTV23.apk",
-    "changelog": "Corrections navigation Firestick, profils, TV Gratuite"
+    "build": 23,
+    "url": "https://github.com/phantom-tv-releases/phantom-tv-releases_public/releases/download/1.0.0%2B23/phantomTV23.apk",
+    "changelog": "Bandeau MAJ Firestick, navigation clavier, TV Gratuite, parrainage"
   },
   "windows": {
     "build": 2,
-    "url": "https://github.com/phantom-tv-releases/phantom-tv-releases_public/releases/download/windows-1.0.0%2B1/PhantomTV_Setup.exe",
-    "changelog": "Premiere version Windows officielle"
+    "url": "https://github.com/phantom-tv-releases/phantom-tv-releases_public/releases/download/windows-1.0.0%2B2/PhantomTV_Setup.exe",
+    "changelog": "Parrainage, TV Gratuite, corrections diverses"
   }
 }
