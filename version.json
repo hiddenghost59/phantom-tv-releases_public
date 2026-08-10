@@ -1,9 +1,9 @@
 {
   "android": {
-    "build": 26,
-    "url": "https://github.com/phantom-tv-releases/phantom-tv-releases_public/releases/download/1.0.0%2B26/phantomTV26.apk",
-    "changelog": "Navigation Firestick, scroll, TV Gratuite, version header",
-    "downloader_code": "5093255"
+    "build": 27,
+    "url": "https://github.com/phantom-tv-releases/phantom-tv-releases_public/releases/download/1.0.0%2B27/phantomTV27.apk",
+    "changelog": "Navigation Firestick, code Downloader dynamique, TV Gratuite",
+    "downloader_code": "7659764"
   },
   "windows": {
     "build": 2,
