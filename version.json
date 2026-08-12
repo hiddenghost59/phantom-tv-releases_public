@@ -6,8 +6,8 @@
     "downloader_code": "9881797"
   },
   "windows": {
-    "build": 2,
-    "url": "https://github.com/phantom-tv-releases/phantom-tv-releases_public/releases/download/windows-1.0.0%2B2/PhantomTV_Setup.exe",
-    "changelog": "Parrainage, TV Gratuite, corrections diverses"
+    "build": 3,
+    "url": "https://github.com/phantom-tv-releases/phantom-tv-releases_public/releases/download/windows-1.0.0%2B3/PhantomTV_Setup.exe",
+    "changelog": "Mentions légales header, version, type connexion, corrections"
   }
 }
