@@ -1,12 +1,13 @@
 {
   "android": {
-    "build": 29,
-    "url": "https://github.com/phantom-tv-releases/phantom-tv-releases_public/releases/download/1.0.0%2B29/phantomTV29.apk",
-    "changelog": "Oeil mdp, volume mini player, version header, type connexion",
-    "downloader_code": "9881797"
+    "build": 30,
+    "url": "https://github.com/phantom-tv-releases/phantom-tv-releases_public/releases/download/1.0.0%2B30/phantomTV30.apk",
+    "changelog": "Grille chaînes, chaînes récentes, EPG en liste, profils côte à côte",
+    "downloader_code": "4768856"
   },
   "windows": {
     "build": 29,
     "url": "https://github.com/phantom-tv-releases/phantom-tv-releases_public/releases/download/windows-1.0.0%2B3/PhantomTV_Setup.exe",
     "changelog": "Mentions légales header, version, type connexion, corrections"
+  }
 }
