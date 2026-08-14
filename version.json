@@ -1,9 +1,9 @@
 {
   "android": {
-    "build": 30,
-    "url": "https://github.com/phantom-tv-releases/phantom-tv-releases_public/releases/download/1.0.0%2B30/phantomTV30.apk",
-    "changelog": "Oeil mdp, volume mini player, version header, type connexion",
-    "downloader_code": "4768856"
+    "build": 31,
+    "url": "https://github.com/phantom-tv-releases/phantom-tv-releases_public/releases/download/1.0.0%2B31/phantomTV31.apk",
+    "changelog": "Formulaire demande de cle, PiP, detection Firestick, Stalker Live TV",
+    "downloader_code": "3110346"
   },
   "windows": {
     "build": 31,
