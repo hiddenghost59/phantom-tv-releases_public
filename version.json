@@ -6,8 +6,8 @@
     "downloader_code": "3110346"
   },
   "windows": {
-    "build": 31,
-    "url": "https://github.com/phantom-tv-releases/phantom-tv-releases_public/releases/download/windows-1.0.0%2B4/PhantomTV_Setup.exe",
-    "changelog": "Formulaire demande de cle, fix multi-profils, UI activation amelioree"
+    "build": 32,
+    "url": "https://github.com/phantom-tv-releases/phantom-tv-releases_public/releases/download/windows-1.0.0%2B5/PhantomTV_Setup.exe",
+    "changelog": "Correction version dans proprietes Windows"
   }
 }
