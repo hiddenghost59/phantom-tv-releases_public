@@ -1,9 +1,9 @@
 {
   "android": {
-    "build": 34,
-    "url": "https://github.com/phantom-tv-releases/phantom-tv-releases_public/releases/download/1.0.0%2B34/phantomTV34.apk",
-    "changelog": "Geolocalisation appareils, restauration profils, chargements plus rapides",
-    "downloader_code": "2914731"
+    "build": 35,
+    "url": "https://github.com/phantom-tv-releases/phantom-tv-releases_public/releases/download/1.0.0%2B35/phantomTV35.apk",
+    "changelog": "Fix profils apres deconnexion, stabilite amelioree",
+    "downloader_code": "8318035"
   },
   "windows": {
     "build": 34,
@@ -11,9 +11,9 @@
     "changelog": "Geolocalisation appareils, restauration profils, chargements plus rapides"
   },
   "firestick": {
-    "build": 34,
-    "url": "https://github.com/phantom-tv-releases/phantom-tv-releases_public/releases/download/firestick-1.0.0%2B34/phantomTV_firestick_34.apk",
-    "changelog": "Correction compatibilite Fire OS, geolocalisation, chargements plus rapides",
-    "downloader_code": "5319301"
+    "build": 35,
+    "url": "https://github.com/phantom-tv-releases/phantom-tv-releases_public/releases/download/firestick-1.0.0%2B35/phantomTV_firestick_35.apk",
+    "changelog": "Fix profils apres deconnexion, stabilite amelioree",
+    "downloader_code": "CODE_FIRESTICK_ICI"
   }
 }
